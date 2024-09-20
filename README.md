@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/Tanu7488/LeetCodeProblems/tree/master/2756-buy-two-chocolates) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Tanu7488/LeetCodeProblems/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
